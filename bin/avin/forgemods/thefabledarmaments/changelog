@@ -1,0 +1,44 @@
+CHANGELOG
+
+
+== Pre-release versions ==
+v1.0.0
+Initial build
+- 1 item
+- 1 block
+
+v1.0.1
+- 2 items
+- 1 block
+- Still crashes in deployment
+
+v1.0.2
+- 2 items
+- 1 block
+- Built using provided gradlew.bat, now working for client and dedicated server
+
+v1.0.3
+- 2 items
+- 1 blocks
+- Reverted The Obsidian Reaver to it's proper damage and also had Sword of a Thousand Truths join it
+
+
+
+== Pre-release versions END ==
+
+== Release versions ==
+
+v1.0.0
+2 items
+- The Obsidian Reaver
+- Sword of A Thousand Truths
+1 block
+- Nonsense Cube
+Initial release
+- Right now Sword of A Thousand Truths and The Obsidian Reaver are very similar...very. That will change says the changelog.
+
+v1.1.0
+3 items
+1 block
+- Did some code restructuring, will be faster to add weapons now
+- Added Thunderfury

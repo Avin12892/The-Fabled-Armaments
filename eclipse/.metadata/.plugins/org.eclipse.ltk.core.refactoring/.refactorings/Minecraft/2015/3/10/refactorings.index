@@ -1,0 +1,24 @@
+1425173023055	Move compilation unit
+1425173034557	Move compilation unit
+1425324598987	Rename type 'ObsidianReaver'
+1425325578658	Move compilation unit
+1425325587893	Move compilation unit
+1425325593408	Move compilation unit
+1425325601511	Move compilation unit
+1425325619419	Delete element
+1425325625040	Delete element
+1425325629709	Delete element
+1425325670578	Rename type 'ObsidianReaverCommonProxy'
+1425325691386	Rename type 'ObsidianReaverClientProxy'
+1425326132225	Rename type 'ObsidianReaverConstructor'
+1425492170389	Rename local variable 'p_150893_2_'
+1425492190673	Rename local variable 'var3'
+1425492236046	Rename local variable 'material'
+1425492823018	Rename local variable 'var1'
+1425493077263	Rename field 'repairMaterial'
+1425506419715	Delete element
+1425506953779	Copy file
+1425562247517	Rename field 'proxy'
+1425576227996	Rename type 'TheObsidianReaverConstructor'
+1425576996427	Rename type 'CombinedClientProxy'
+1425686275801	Rename field 'PATH_TO_COMBINEDCLIENTPROXY'

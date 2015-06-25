@@ -1,0 +1,2 @@
+tile.blocktest.name=Test Block
+item.theobsidianreavermodel.name=The Obsidian Reaver

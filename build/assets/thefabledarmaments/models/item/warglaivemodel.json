@@ -1,0 +1,18 @@
+{
+	"parent": "builtin/generated",
+	"textures": {
+		"layer0": "thefabledarmaments:items/warglaivetexture"
+	},
+	"display": {
+		"thirdperson": {
+			"rotation": [ 180, 88, 310 ],
+			"translation": [ -1, -2, -0.5 ],
+			"scale": [ 1.5, 1.5, 1 ]
+		},
+		"firstperson": {
+			"rotation": [ 358, 30, 336 ],
+			"translation": [ 0, 0, 4.25 ],
+			"scale": [ 3, 3.7, 0.80 ]
+		}
+	}
+}
